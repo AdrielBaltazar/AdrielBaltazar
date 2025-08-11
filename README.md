@@ -12,10 +12,6 @@
 ## **🌐 Socials:**
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/adrieljosh.baltazar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mhajbaltazar@gmail.com) 
 
-## **📊 GitHub Stats:**
-![](https://github-readme-stats.vercel.app/api?username=AdrielBaltazar&show_icons=true&hide_border=true&title_color=900500&icon_color=BD953E&text_color=350200&bg_color=fff9e7)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdrielBaltazar&hide_border=true&stroke=900500&background=fff9e7&ring=BD953E&fire=900500&currStreakNum=900500&currStreakLabel=6C0200)<br/>
-
 ## **🏆 GitHub Trophies**
 ![trophy](https://github-profile-trophy.vercel.app/?username=AdrielBaltazar&theme=darkhub&no-bg=true&no-frame=true&margin-w=5)
 
